@@ -1,2 +1,2 @@
 First run en_ur_translator(parallel_carporus).ipynb it will save model and checkpoint.
-Run voice-translator.ipynb file
+Run voice-recognition.ipynb file
